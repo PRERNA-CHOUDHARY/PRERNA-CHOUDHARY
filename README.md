@@ -32,11 +32,11 @@ me.say_hi();
 
 <p align="left">
 <a href="https://twitter.com/___PRERNA___">
-  <img alt="Prerna Choudhary | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Prerna Choudhary | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/prerna-choudhary-31837a1bb/">
-  <img alt="Prerna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Prerna's LinkedIN" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
 </p>
 
@@ -44,7 +44,8 @@ me.say_hi();
    <img src="https://user-images.githubusercontent.com/77505989/184614628-6c4e5af2-108d-43cd-968c-5a3cb20cdd7e.gif" alt="PC GIF" />
 </p>
 
-<br>⭐ I am currently working on Data Structures & Algorithms.<br>⭐ You can ask me about Website Development & Google Cloud Platform. <br>⭐ You can reach out to me via - choudharyprerna493[at]gmail.com. <br>⭐ Know more about me & my work by visiting my <a href="https://prernachoudhary.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> Website.
+<br>⭐ I am currently working on Data Structures & Algorithms.<br>⭐ You can ask me about Website Development & Google Cloud Platform. <br>⭐ You can reach out to me via - choudharyprerna493@gmail.com. <br>
+<!--⭐ Know more about me & my work by visiting my <a href="https://prernachoudhary.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> Website.-->
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -52,5 +53,5 @@ me.say_hi();
 
 <p align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRERNA-CHOUDHARY&theme=tokyonight&hide_border=false" alt="PC" /> -->
-<br /><img src="https://activity-graph.herokuapp.com/graph?username=PRERNA-CHOUDHARY&theme=github" alt="PC" />
+<br />
 </p>
